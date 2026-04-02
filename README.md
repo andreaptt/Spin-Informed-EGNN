@@ -1,4 +1,4 @@
-# Spin-Informed-EGNN
+# Spin-Informed EGNN
 The intersection of machine learning and quantum physics has opened new frontiers in the study of
 complex many-body systems. In recent years, Graph Neural Networks (GNNs) have emerged as a
 powerful tool for modeling physical systems, owing to their natural ability to represent relational data,
