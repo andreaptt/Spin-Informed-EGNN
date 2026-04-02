@@ -14,7 +14,7 @@ discarded in classical graph representations.
 In this work, we address this limitation by introducing Spin-Informed Equivariant Graph Neural
 Networks (SI-EGNNs), an architecture that augments traditional EGNNs with an encoding of the
 initial quantum state of each node. Each node in the graph is endowed with a representation of its spin
-state, parameterized via the Bloch vector, allowing the network to incorporate quantum-mechanical
+state, parameterized via the Bloch vector, allowing the network to incorporate quantum mechanical
 information while preserving the equivariance properties essential for physical consistency.
 To validate this approach on a concrete and practically relevant problem, we apply SI-EGNNs to the
 prediction of the coherence time T2 of Nitrogen-Vacancy (NV) centers in diamond. NV centers are
